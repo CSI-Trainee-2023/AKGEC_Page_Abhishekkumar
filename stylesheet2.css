@@ -60,6 +60,7 @@
     border-top: 2px solid yellow;
     background-color: rgb(10, 4, 4);
     padding-right: 4rem;
+    margin-top: 9cm;
     
 
 }
@@ -78,7 +79,7 @@
 }
 .AboutAkgec{
     margin-left: 24cm;
-    
+
     margin-top: -9cm;
     padding-right: 4cm;
     padding-bottom: 7cm;
@@ -96,4 +97,16 @@
     padding-bottom: 3cm;
 
 
+}
+.imagecontent{
+    position: absolute; 
+    
+    right:650px; 
+    top: 800px
+}
+.image{
+    position: absolute; 
+    right: 100px;
+     top: 900px;
+     
 }
