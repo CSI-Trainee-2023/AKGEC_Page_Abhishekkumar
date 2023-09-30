@@ -32,3 +32,8 @@
     color: rgb(21, 183, 186);
 
 }
+.row2 li{
+    font-size: 18px;
+    color: rgba(21, 20, 20, 0.755);
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -56,3 +56,44 @@
 
 
 }
+.Foot{
+    border-top: 2px solid yellow;
+    background-color: rgb(10, 4, 4);
+    padding-right: 4rem;
+    
+
+}
+.Menu h4{
+    padding-left: 4rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    margin-top: 1cm;
+
+}
+.link{
+    margin-left: 12cm;
+    margin-top: -15rem;
+    padding-bottom: 1cm ;
+}
+.AboutAkgec{
+    margin-left: 24cm;
+    
+    margin-top: -9cm;
+    padding-right: 4cm;
+    padding-bottom: 7cm;
+    
+}
+.aboutajay{
+    margin-left: 12cm;
+
+    margin-top: -8cm;
+    color: white;
+    font-size:14px;
+    
+
+
+    padding-bottom: 3cm;
+
+
+}
